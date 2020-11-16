@@ -10,6 +10,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/dice-roller" />
             <option value="$PROJECT_DIR$/happy-birthday" />
           </set>
         </option>

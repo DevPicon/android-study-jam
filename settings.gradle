@@ -1,2 +1,3 @@
+include ':dice-roller'
 include ':happy-birthday'
 rootProject.name = "Study Jam Application"
